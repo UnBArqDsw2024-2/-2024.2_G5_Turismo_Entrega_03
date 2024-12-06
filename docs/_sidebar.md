@@ -10,4 +10,7 @@
     - [3.3. Padrões de Projeto GoFs Comportamentais](/docs/PadroesDeProjeto/3.3.GoFsComportamentais.md)
     - [3.4. Participações - Padrões de Projeto](/docs/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
     - [3.5. Iniciativas Extras - Padrões de Projeto](/docs/PadroesDeProjeto/3.5.IniciativasExtras.md)
+  
+  **Atas**
+    - [Ata - 07](atas/ata_07.md) 
       
