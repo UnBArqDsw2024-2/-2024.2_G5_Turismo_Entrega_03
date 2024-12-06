@@ -56,12 +56,12 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 ## Resultados da reunião 06
 
 Para as melhorias nas próximas entregas:
-    - Metodologia mais detalhada
-    - Referências mais detalhadas e bem construídas   
-    - Aprofundar o detalhamento e especificação no desenvolvimento dos artefatos como um todo    
+- Metodologia mais detalhada
+- Referências mais detalhadas e bem construídas   
+- Aprofundar o detalhamento e especificação no desenvolvimento dos artefatos como um todo    
 
 No foco 01 da terceira entrega ficou decidido pelo grupo a divisão da equipe em 2 grupos menores, com cada grupo possuindo integrantes do backend e integrantes do frontend. Os grupos terão os objetivos de elaborar os artefatos sobre e implementar os padrões criacionais Factory Method e Abstract Factory.
-Na reunião ficou decidido o uso do novo template a ser utilizado na elaboração dos artefatos. Também foi decidido dar início ao desenvolvimento do backend e frontend.O grupo também ficou com dúvidas em relação ao desenvolvimento do artefato e utilização do padrão criacional GRASPs.O quadro de contribuição já foi elaborado para os integrantes da equipe documentarem suas ações realizadas na terceira entrega do trabalho.
+Na reunião ficou decidido o uso do novo template a ser utilizado na elaboração dos artefatos. Também foi decidido dar início ao desenvolvimento do backend e frontend.O grupo também ficou com dúvidas em relação ao desenvolvimento do artefato e utilização do padrão criacional GRASPs. O quadro de contribuição já foi elaborado para os integrantes da equipe documentarem suas ações realizadas na terceira entrega do trabalho.
 
 ## Gravação da reunião
 
