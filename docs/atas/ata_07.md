@@ -80,7 +80,7 @@ Na reunião ficou decidido o uso do novo template a ser utilizado na elaboraçã
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 05/12/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Cláudio Henrique][ClaudioGH] |  |
+|`1.0`| 05/12/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Pablo S. Costa][PabloGH] | Não foram encontado falhas no documento. |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
