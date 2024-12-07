@@ -24,10 +24,10 @@ Sendo assim, este documento tem como finalidade [objetivo do documento].
 
 Para a elaboração deste documento, foram seguidas as seguintes etapas:
 - Inicialmente, foi realizada uma reunião com os membros da equipe do projeto [X] para discutir e alinhar as principais questões relacionadas a [tema ou objetivo].
-- Pesquisas foram conduzidas em [A](link) e [B](link), proporcionando uma base sólida para a análise e discussão.
+- Pesquisas foram conduzidas em [A](#ref1) e [B](#ref2), proporcionando uma base sólida para a análise e discussão.
     - Se possível, adicionar algum algum documento nosso. (Caso haja elo com outro documento)
-- O desenvolvimento do projeto seguiu a metodologia [C](link), garantindo a aplicabilidade das melhores práticas no processo.
-- Utilizou-se a ferramenta [Z](link) para a parte [L] do projeto, a fim de [justificativa].
+- O desenvolvimento do projeto seguiu a metodologia [C](#ref3), garantindo a aplicabilidade das melhores práticas no processo.
+- Utilizou-se a ferramenta [Z](#ref4) para a parte [L] do projeto, a fim de [justificativa].
 
 A metodologia [C] adotada pode ser visualizada de forma detalhada através dos seguintes passos [listar, tabela, imagens, ou vídeos, conforme necessário].
 -->
@@ -41,7 +41,7 @@ A metodologia [C] adotada pode ser visualizada de forma detalhada através dos s
 <!--
                                     TEMPLATE DE INSERÇÃO DE IMAGEM
 
-<font size="2"><p style="text-align: center">Figura 1: imagem.</p></font>
+<font size="2"><p style="text-align: center">Figura 1 - imagem.</p></font>
 
 <center>
 
@@ -55,7 +55,7 @@ A metodologia [C] adotada pode ser visualizada de forma detalhada através dos s
 
 <!--
                                     TEMPLATE DE INSERÇÃO DE TABELA
-<font size="2"><p style="text-align: center">Tabela 1: Tabela.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Tabela.</p></font>
 
 <center>
 
@@ -66,7 +66,7 @@ A metodologia [C] adotada pode ser visualizada de forma detalhada através dos s
 </center>
 
 <font size="2"><p style="text-align: center">Autor(es): [Ciclano](CiclanoGH), 2001.</p></font>
-
+(Se a tabela não for de autoria própria, trocar o autor para a fonte na tabela)
 -->
 
 ### Análise dos Resultados <!-- NÃO apague essa sub -->
@@ -79,7 +79,8 @@ A metodologia [C] adotada pode ser visualizada de forma detalhada através dos s
     Apague essa seção se não tiver gravação(s) da reunião. Mas tenha em mente que é uma boa prática gravar as reuniões para futuras consultas.
 -->
 
-<font size="2"><p style="text-align: center">Vídeo 1: Gravação da reunião X sobre Y </p></font>
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação da reunião X sobre Y </p></font>
+
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/codigo" 
   frameborder="0" 
@@ -87,17 +88,18 @@ A metodologia [C] adotada pode ser visualizada de forma detalhada através dos s
   allowfullscreen>
 </iframe>
 
-<font size="2"><p style="text-align: center">Participantes: [Ciclano](CiclanoGH), [Fulano](FulanoGH) e [Beltrano](BeltranoGH)</p></font>
-
-<font size="2"><p style="text-align: center">Data: 01/01/2024</p></font>
+<font size="2"><p style="text-align: center">Participantes: [Ciclano](CiclanoGH), [Fulano](FulanoGH) e [Beltrano](BeltranoGH), 11 de dez. de 2024.</p></font>
 
 ## Bibliografia
 
-> 1. Titulo da fonte. Disponível em: [https://link.com](https://link.com). Acesso em: 01 de jan. de 2001.
-
-> 2. Titulo da fonte. Disponível em: [https://link.com](https://link.com). Acesso em: 01 de jan. de 2001.
-
-> 3. Titulo da fonte. Disponível em: [https://link.com](https://link.com). Acesso em: 01 de jan. de 2001.
+> 1. <a id="ref1"></a>Titulo da fonte. Disponível em: [https://link.com](https://link.com). Acesso em: 01 de jan. de 2001.
+>
+> 2. <a id="ref2"></a>Titulo da fonte. Disponível em: [https://link.com](https://link.com). Acesso em: 01 de jan. de 2001.
+>
+> 3. <a id="ref3"></a>Titulo da fonte. Disponível em: [https://link.com](https://link.com). Acesso em: 01 de jan. de 2001.
+>
+> 4. <a id="ref4"></a>Titulo da fonte. Disponível em: [https://link.com](https://link.com). Acesso em: 01 de jan. de 2001.
+>
 
 ## Histórico de Versões
 
