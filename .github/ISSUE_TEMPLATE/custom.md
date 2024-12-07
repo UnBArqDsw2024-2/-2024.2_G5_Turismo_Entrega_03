@@ -10,12 +10,17 @@ assignees: ''
 Descreva o que precisa ser feito. Se possível, adicione imagens ou links para ajudar a entender o problema.
 
 ## Tarefas
-- [ ] Tarefa 1
+- [ ] Seguir [template de documentação](https://github.com/UnBArqDsw2024-2/2024.2_G5_Turismo_Entrega_03/blob/main/.github/TEMPLATE_DOC.md)
 - [ ] Tarefa 2
 
 ## Critérios de aceitação
-- [ ] Critério 1
-- [ ] Critério 2
+- [ ] Titulo enumerado
+- [ ] Ortografia correta
+- [ ] Link nos textos para as referencias 
+- [ ] Bibliografia está presente e segue o padrão ABNT
+- [ ] Versionamento padronizado
+- [ ] Títulos e citações em figuras, tabelas e videos seguem o padão ANBT
+- [ ] Citações diferem autores de fonte
 
 ## Observações
 Adicione informações adicionais que julgar necessário.
