@@ -10,8 +10,9 @@ assignees: ''
 Descreva o que precisa ser feito. Se possível, adicione imagens ou links para ajudar a entender o problema.
 
 ## Tarefas
+- [ ] Documentar em 3.X.X.
 - [ ] Seguir [template de documentação](https://github.com/UnBArqDsw2024-2/2024.2_G5_Turismo_Entrega_03/blob/main/.github/TEMPLATE_DOC.md)
-- [ ] Tarefa 2
+- [ ] Colocar na issue a gravação da realização.
 
 ## Critérios de aceitação
 - [ ] Titulo enumerado
