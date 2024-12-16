@@ -9,9 +9,9 @@ Este artefato resume a reunião do dia 10 de dezembro de 2024 do grupo 05, nele 
 ## Pautas da reunião:
 
 - Sprint Review da Entrega de Padrões Criacionais;
+- Revisão de artefatos incompletos;
 - Explicação Geral de GoFs;
 - Critérios de aceitação dos artefatos;
-- Revisão de artefatos incompletos;
 - Divisão em duplas para realizar os artefatos;
 - Início Foco 2 - Padrões Estruturais.
 
@@ -53,15 +53,13 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 </font>
 
-## Resultados da reunião 06
+## Resultados da reunião 08
 
-Para as melhorias nas próximas entregas:
-- Metodologia mais detalhada
-- Referências mais detalhadas e bem construídas   
-- Aprofundar o detalhamento e especificação no desenvolvimento dos artefatos como um todo    
+Nessa reunião foi feita a Sprint Review do Foco 1 sobre os Padrões Criacionais, e nessa parte foi perguntado aos integrantes o motivo do atraso das entregas dos artefatos desse foco. Alguns integrantes relataram problemas com o tempo e provas na semana da Sprint.
+Depois, foi feita uma explicação geral de como funcionará a realização dos próximos padrões e seus critérios de aceitação. 
 
-No foco 01 da terceira entrega ficou decidido pelo grupo a divisão da equipe em 2 grupos menores, com cada grupo possuindo integrantes do backend e integrantes do frontend. Os grupos terão os objetivos de elaborar os artefatos sobre e implementar os padrões criacionais Factory Method e Abstract Factory.
-Na reunião ficou decidido o uso do novo template a ser utilizado na elaboração dos artefatos. Também foi decidido dar início ao desenvolvimento do backend e frontend.O grupo também ficou com dúvidas em relação ao desenvolvimento do artefato e utilização do padrão criacional GRASPs. O quadro de contribuição já foi elaborado para os integrantes da equipe documentarem suas ações realizadas na terceira entrega do trabalho.
+Ficou acordado que os padrões dos próximos focos deverão feitos preferencialmente em dupla, e somente alguns individualmente, caso necessário.
+
 
 ## Gravação da reunião
 
