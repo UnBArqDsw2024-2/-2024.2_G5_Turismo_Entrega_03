@@ -1,5 +1,5 @@
 
-# Reunião 6: 05/12/2024
+# Reunião 7: 05/12/2024
 
 ## Introdução
 
@@ -11,9 +11,9 @@ Este artefato resume a reunião do dia 05 de dezembro de 2024 do grupo 05, nele 
 - Pontos a serem aprimorados nas elaborações dos artefatos.
 
 - Planejamento da Sprint 05, com início em 05/12/24 até 10/12/2024.
-    - GoFs criacionais e Estruturais e comportamentais
-    - Foco 01: Padrões criacionais: Factory Method e Abstract Method
-    - GRASPs?
+    - GoFs Criacionais, Estruturais e Comportamentais;
+    - Foco 01 - Padrões criacionais: Factory Method, Abstract Method e demais padrões;
+    - GRASPs.
 
 ## Integrantes presentes:
 
