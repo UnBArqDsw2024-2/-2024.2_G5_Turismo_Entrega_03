@@ -13,7 +13,7 @@ Este artefato resume a reunião do dia 10 de dezembro de 2024 do grupo 05, nele 
 - Explicação Geral de GoFs;
 - Critérios de aceitação dos artefatos;
 - Divisão em duplas para realizar os artefatos;
-- Início Foco 2 - Padrões Estruturais.
+-  Sprint Planning do Foco 2 - Padrões Estruturais.
 
 ## Integrantes presentes:
 
