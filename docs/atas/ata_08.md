@@ -58,7 +58,7 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 Nessa reunião foi feita a Sprint Review do Foco 1 sobre os Padrões Criacionais, e nessa parte foi perguntado aos integrantes o motivo do atraso das entregas dos artefatos desse foco. Alguns integrantes relataram problemas com o tempo e provas na semana da Sprint.
 Depois, foi feita uma explicação geral de como funcionará a realização dos próximos padrões e seus critérios de aceitação. 
 
-Ficou acordado que os padrões dos próximos focos deverão feitos preferencialmente em dupla, e somente alguns individualmente, caso necessário.
+Ficou acordado que os padrões dos próximos focos deverão ser feitos preferencialmente em dupla, e somente alguns individualmente, caso necessário.
 
 
 ## Gravação da reunião
@@ -78,7 +78,7 @@ Ficou acordado que os padrões dos próximos focos deverão feitos preferencialm
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 16/12/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH] | |  |
+|`1.0`| 16/12/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH] | [Elias Oliveira][EliasGH] | Foram encontrados apenas erros pontuais no texto. |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
