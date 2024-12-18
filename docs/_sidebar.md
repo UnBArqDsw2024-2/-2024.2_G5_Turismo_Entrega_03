@@ -13,4 +13,6 @@
     - [3.5. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.5.IniciativasExtras.md)
   
   **Atas**
-    - [Ata - 07](atas/ata_07.md) 
+    - [Ata - 07](atas/ata_07.md)
+    - [Ata - 08](atas/ata_08.md)
+    - [Ata - 09](atas/ata_09.md)
