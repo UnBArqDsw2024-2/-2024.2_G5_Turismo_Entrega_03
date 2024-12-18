@@ -8,16 +8,21 @@ Este artefato resume a reunião do dia 17 de dezembro de 2024 do grupo 05, nele 
 
 ## Pautas da reunião:
 
+- Sprint Review do foco 02 da terceira entrega;
+- Sprint Planning do foco 03 da terceira entrega;
+- Abordando pontos para a melhoria dos artefatos;
+- Definição da deadline para a conclusão de todos os artefatos da entrega;
+- Definição da implementação dos padrões estudados no projeto.
 
 ## Integrantes presentes:
 
 Alguns integrantes participaram, outros parcialmente e outros não estavam disponíveis para o encontro.
 
 <label><input type="checkbox" checked disabled>[Ana Luíza](https://github.com/analufernanndess)</label><br>
-<label><input type="checkbox" checked disabled>[Cainã Freitas](https://github.com/freitasc)</label><br>
+<label><input type="checkbox" unchecked disabled>[Cainã Freitas](https://github.com/freitasc)</label><br>
 <label><input type="checkbox" checked disabled>[Cláudio Henrique](https://github.com/claudiohsc)</label><br>
 <label><input type="checkbox" checked disabled>[Elias Faria](https://github.com/EliasOliver21)</label><br>
-<label><input type="checkbox" unchecked disabled>[Guilherme Meister](https://github.com/gmeister18)</label><br>
+<label><input type="checkbox" checked disabled>[Guilherme Meister](https://github.com/gmeister18)</label><br>
 <label><input type="checkbox" checked disabled>[Joel Rangel](https://github.com/JoelSRangel)</label><br>
 <label><input type="checkbox" checked disabled>[Kathlyn Lara](https://github.com/klmurussi)</label><br>
 <label><input type="checkbox" checked disabled>[Pablo Costa](https://github.com/pabloheika)</label><br>
@@ -36,7 +41,7 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
-| 17/12/2024  | 21:20 | 21:57 | Microsoft Teams |
+| 17/12/2024  | 21:17 | 21:57 | Microsoft Teams |
 
 <font size="2" >
 
@@ -47,13 +52,23 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 </font>
 
-## Resultados da reunião 08
+## Resultados da reunião 09
 
+- Sprint Review do foco 02 da terceira entrega
+  - Na reunião foi dado ênfase para o grupo promover a elaboração e conclusão enérgica dos artefatos atrasados.
+- Sprint Planning do foco 03 da terceira entrega
+  - Ficou decidido para a elaboração dos artefatos sobre os padrões comportamentais que duas duplas irão elaborar um artefato e também a construção dos artefatos generalistas dos focos. A dupla com os integrantes Elias e Claudio ficou responsável pelo foco 2 e o integrante Elias responsável pelo artefato da home. A Dupla com os integrantes Pablo e Kathlyn ficou responsável pelos artefatos do foco 3, iniciativas extras e geral. As demais duplas ficaram responsáveis por elaborar 2 artefatos dos padrões comportamentais.
+- Abordando pontos para a melhoria dos artefatos
+  - O grupo discutiu sobre os pontos elencados pela professora para a melhoria dos artefatos, em específico nas descrições das metodologias.
+- Definição da deadline para a conclusão de todos os artefatos da entrega
+  - O grupo definiu a data final para a entrega de todos os artefatos até a data 30/12/24.
+- Definição da implementação dos padrões estudados no projeto
+  - O grupo também pontuou e decidiu em conjunto deixar para a equipe dos integrantes responsáveis pelo backend decidir sobre as implementações dos padrões estudados para o projeto.
 
 
 ## Gravação da reunião
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/codigo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hm35zr9Lb_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2" >
 
