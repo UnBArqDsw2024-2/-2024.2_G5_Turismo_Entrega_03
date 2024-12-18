@@ -83,7 +83,7 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 17/12/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Cláudio Henrique][ClaudioGH] |  |
+|`1.0`| 17/12/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Cláudio Henrique][ClaudioGH] | Não foram encontrados erros no documento.  |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
