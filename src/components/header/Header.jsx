@@ -9,10 +9,10 @@ function Header() {
 
             
 
-            <AppBar position='static'color=''>
+            <AppBar position='static' sx={{ backgroundColor: '#EAF1F4', fontFamily:'Roboto, Arial, sans-serif' }}>
 
                 <Toolbar >
-                    <Typography component='div' sx={{flexGrow: 1,}}>
+                    <Typography component='div' sx={{flexGrow: 2}}>
 
                         <section>
                         <img
@@ -22,12 +22,12 @@ function Header() {
 
                     </Typography>
 
-                    <stack direction ='row' spacing={2}>
-                        <Button color="inherit" href='/'>Festividades</Button>
-                        <Button color="inherit" href="/eventos">Eventos</Button>
-                        <Button color="inherit" href="/meus_eventos">Meus eventos</Button>
-                        <Button color="inherit" href="/alertas"><NotificationsNoneIcon></NotificationsNoneIcon></Button>
-                        <Button color="inherit" href="/perfil"><AccountCircleIcon></AccountCircleIcon></Button>
+                    <stack direction ='row' spacing={2} >
+                        <Button sx={{color: 'black', fontWeight:'bold'}}  href='/'>Festividades</Button>
+                        <Button sx={{color: "#555"}} href="/eventos">Eventos</Button>
+                        <Button sx={{color: "#555"}} href="/meus_eventos">Meus eventos</Button>
+                        <Button sx={{color: 'black'}} href="/alertas"><NotificationsNoneIcon></NotificationsNoneIcon></Button>
+                        <Button sx={{color: 'black'}}on  href="/perfil"><AccountCircleIcon></AccountCircleIcon></Button>
                     </stack>
 
                 </Toolbar>
