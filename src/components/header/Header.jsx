@@ -1,38 +1,38 @@
 import Logo from '../../assets/logo-horizontal.svg'
 import { Link } from "react-router-dom"
-import {AppBar, Toolbar, Typography, Button} from "@mui/material"
+import { AppBar, Toolbar, Typography, Button } from "@mui/material"
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
 
 function Header() {
     return (
 
-            
 
-            <AppBar position='static' sx={{ backgroundColor: '#EAF1F4', fontFamily:'Roboto, Arial, sans-serif' }}>
 
-                <Toolbar >
-                    <Typography component='div' sx={{flexGrow: 2}}>
+        <AppBar position='static' sx={{ backgroundColor: '#EAF1F4', fontFamily: 'Roboto, Arial, sans-serif' }}>
 
-                        <section>
+            <Toolbar >
+                <Typography component='div' sx={{ flexGrow: 2 }}>
+
+                    <section>
                         <img
                             src={Logo}
-                            alt="Imagem de ilustração de um globo azul com um avião o sobrevoando"/>
-                        </section>
+                            alt="Imagem de ilustração de um globo azul com um avião o sobrevoando" />
+                    </section>
 
-                    </Typography>
+                </Typography>
 
-                    <stack direction ='row' spacing={2} >
-                        <Button sx={{color: 'black', fontWeight:'bold'}}  href='/'>Festividades</Button>
-                        <Button sx={{color: "#555"}} href="/eventos">Eventos</Button>
-                        <Button sx={{color: "#555"}} href="/meus_eventos">Meus eventos</Button>
-                        <Button sx={{color: 'black'}} href="/alertas"><NotificationsNoneIcon></NotificationsNoneIcon></Button>
-                        <Button sx={{color: 'black'}}on  href="/perfil"><AccountCircleIcon></AccountCircleIcon></Button>
-                    </stack>
+                <stack direction='row' spacing={2} >
+                    <Link to="/"><Button sx={{ color: 'black', fontWeight: 'bold' }} >Festividades</Button></Link>
+                    <Link to="/eventos"><Button sx={{ color: "#555" }} >Eventos</Button></Link>
+                    <Link to="/meus_eventos"><Button sx={{ color: "#555" }} >Meus eventos</Button></Link>
+                    <Link to="/alertas"><Button sx={{ color: 'black' }} ><NotificationsNoneIcon></NotificationsNoneIcon></Button></Link>
+                    <Link to="/perfil"><Button sx={{ color: 'black' }} on ><AccountCircleIcon></AccountCircleIcon></Button></Link>
+                </stack>
 
-                </Toolbar>
+            </Toolbar>
 
-            </AppBar>
+        </AppBar>
 
     );
 }
