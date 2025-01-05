@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { MongooseModule } from '@nestjs/mongoose';
 import { UserModule } from './module/user.module';
 import { ConfigModule, ConfigService } from '@nestjs/config';
+import { AppController } from './app/app.controller';
 
 @Module({
   imports: [
@@ -11,7 +12,7 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
     MongooseModule.forRoot('mongodb+srv://eventour:eventourFCTE@eventour.mbmmn.mongodb.net/?retryWrites=true&w=majority&appName=EvenTour'),
     UserModule,
   ],
-  controllers: [],
+  controllers: [AppController],
   providers: [],
 })
 export class AppModule {}
