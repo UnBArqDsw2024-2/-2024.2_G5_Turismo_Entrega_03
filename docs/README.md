@@ -42,11 +42,11 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - (DSW)P
 
 ### Padrão Estrutural
 
-#### Print
+#### Composite
 
 <div style= "max-width: 800px">
 
-![Imagem](./Modelagem/assets/Diagrama-de-Classes.jpg)
+![Imagem](./Modelagem/assets/estruturais/composite/padrão_estrutural_composite.svg)
 
 </div>
 
