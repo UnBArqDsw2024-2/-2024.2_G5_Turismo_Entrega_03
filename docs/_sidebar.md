@@ -15,10 +15,11 @@
       - [3.2.2. Bridge](/PadroesDeProjeto/estruturais/3.2.2.Bridge.md)
       - [3.2.3. Composite](/PadroesDeProjeto/estruturais/3.2.3.Composite.md)
     - [3.3. Padrões de Projeto GoFs Comportamentais](/PadroesDeProjeto/3.3.GoFsComportamentais.md)
-      - [3.3.1. Strategy](/PadroesDeProjeto/comportamentais/3.3.1.Strategy.md)
+      - [3.3.1 Command](/PadroesDeProjeto/comportamentais/3.3.1.Command.md)
       - [3.3.2. Iterator](/PadroesDeProjeto/comportamentais/3.3.2.Iterator.md)
       - [3.3.3. Mediator](/PadroesDeProjeto/comportamentais/3.3.3.Mediator)
       - [3.3.4. State](/PadroesDeProjeto/comportamentais/3.3.4.State.md)
+      - [3.3.6. Strategy](/PadroesDeProjeto/comportamentais/3.3.1.Strategy.md)
     - [3.4. Participações - Padrões de Projeto](/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
     - [3.5. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.5.IniciativasExtras.md)
   
