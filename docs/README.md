@@ -46,7 +46,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - (DSW)P
 
 <div style= "max-width: 800px">
 
-![Imagem](./Modelagem/assets/estruturais/composite/padrão_estrutural_composite.svg)
+![Imagem](../docs/PadroesDeProjeto/assets/estruturais/composite/padrão_estrutural_composite.svg)
 
 </div>
 
@@ -56,19 +56,19 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - (DSW)P
 
 <div style= "max-width: 800px">
 
-![Imagem](./Modelagem/assets/comportamentais/iterator/figura1.png)
+![Imagem](../docs/PadroesDeProjeto/assets/comportamentais/iterator/figura1.png)
 
 </div>
 
 <div style= "max-width: 800px">
 
-![Imagem](./Modelagem/assets/comportamentais/iterator/figura2.png)
+![Imagem](../docs/PadroesDeProjeto/assets/comportamentais/iterator/figura2.png)
 
 </div>
 
 <div style= "max-width: 800px">
 
-![Imagem](./Modelagem/assets/comportamentais/iterator/figura3.png)
+![Imagem](../docs/PadroesDeProjeto/assets/comportamentais/iterator/figura3.png)
 
 </div>
 
