@@ -15,30 +15,30 @@ export enum Gender {
 export class CreateUserDto {
   name: string;
 
-  @IsEmail()
-  email: string;
+  // @IsEmail()
+  // email: string;
 
-  @Length(11, 11)
-  cpf: string;
+  // @Length(11, 11)
+  // cpf: string;
 
-  @Length(6, 16)
-  password: string;
+  // @Length(6, 16)
+  // password: string;
 
-  // @IsString()
-  // state: string;
+  // // @IsString()
+  // // state: string;
 
-  @IsEnum(Gender)
-  gender: Gender;
+  // @IsEnum(Gender)
+  // gender: Gender;
 
   // phone: string;
 
   kind?: string;
 
-  @IsOptional()
-  @IsDate()
-  createdAt?: Date;
+  // @IsOptional()
+  // @IsDate()
+  // createdAt?: Date;
 
-  @IsOptional()
-  @IsArray()
-  permissions?: string[];
+  // @IsOptional()
+  // @IsArray()
+  // permissions?: string[];
 }
