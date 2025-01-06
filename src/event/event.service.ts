@@ -1,26 +1,33 @@
 import { Injectable } from '@nestjs/common';
-import { CreateEventDto } from './dto/create-event.dto';
-import { UpdateEventDto } from './dto/update-event.dto';
+import { Event } from './composite/event';
+import { EventGroup } from './composite/event-group';
 
 @Injectable()
 export class EventService {
-  create(createEventDto: CreateEventDto) {
-    return 'This action adds a new event';
+  private events: { [id: number]: Event | EventGroup } = {};
+  private currentId = 1;
+
+  createEvent(name: string, themeId: string, userId: string, location: string, startDate: Date, endDate: Date, parentId?: number) {
+    const newEvent = new Event(this.currentId, name, themeId, userId, location, startDate, endDate);
+
+    if (parentId && this.events[parentId] instanceof EventGroup) {
+      (this.events[parentId] as EventGroup).add(newEvent);
+    } else {
+      this.events[this.currentId] = newEvent;
+    }
+
+    this.currentId++;
+    return newEvent.getDetails();
   }
 
-  findAll() {
-    return `This action returns all event`;
+  createEventGroup() {
+    const group = new EventGroup();
+    this.events[this.currentId] = group;
+    this.currentId++;
+    return { id: this.currentId - 1, message: "Grupo de eventos criado com sucesso" };
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} event`;
-  }
-
-  update(id: number, updateEventDto: UpdateEventDto) {
-    return `This action updates a #${id} event`;
-  }
-
-  remove(id: number) {
-    return `This action removes a #${id} event`;
+  getEvents() {
+    return Object.values(this.events).map(event => event.getDetails());
   }
 }
