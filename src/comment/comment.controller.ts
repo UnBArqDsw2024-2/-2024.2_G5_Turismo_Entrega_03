@@ -2,6 +2,9 @@ import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/commo
 import { CommentService } from './comment.service';
 import { CreateCommentDto } from './dto/create-comment.dto';
 import { UpdateCommentDto } from './dto/update-comment.dto';
+import { Factory } from './factory';
+import { RateCommentCreator } from './rate-comment-creator';
+import { CommonCommentCreator } from './common-comment-creator';
 
 @Controller('comment')
 export class CommentController {
@@ -9,7 +12,16 @@ export class CommentController {
 
   @Post()
   create(@Body() createCommentDto: CreateCommentDto) {
-    return this.commentService.create(createCommentDto);
+    let creator: Factory;
+    switch (createCommentDto.kind) {
+      case 'rate':
+        creator = new RateCommentCreator();
+        break;
+      default:
+        creator = new CommonCommentCreator();
+    }
+    return creator.someOperation(createCommentDto);
+    //return this.commentService.create(createCommentDto);
   }
 
   @Get()

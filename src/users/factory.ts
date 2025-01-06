@@ -6,6 +6,6 @@ export abstract class Factory {
 
   public someOperation(createUserDto: CreateUserDto): string {
     const user = this.factoryMethod(createUserDto);
-    return `Creator: The same creator's code has just worked with ${user.getRole()} ${user.getName()}`;
+    return `Creator: User type: ${user.getRole()}. Name: ${user.getName()}`;
   }
 }

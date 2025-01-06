@@ -1,16 +1,16 @@
-import {
-  IsEmail,
-  IsOptional,
-  IsArray,
-  IsDate,
-  Length,
-  IsEnum,
-} from 'class-validator';
+// import {
+//   IsEmail,
+//   IsOptional,
+//   IsArray,
+//   IsDate,
+//   Length,
+//   IsEnum,
+// } from 'class-validator';
 
-export enum Gender {
-  Male = 'Male',
-  Female = 'Female',
-}
+// export enum Gender {
+//   Male = 'Male',
+//   Female = 'Female',
+// }
 
 export class CreateUserDto {
   name: string;
