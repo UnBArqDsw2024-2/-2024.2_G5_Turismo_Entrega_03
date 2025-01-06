@@ -52,11 +52,23 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - (DSW)P
 
 ### Padrão Comportamental
 
-#### Strategy
+#### Iterator
 
 <div style= "max-width: 800px">
 
-![Imagem](./Modelagem/assets/Diagrama-de-Classes.jpg)
+![Imagem](./Modelagem/assets/comportamentais/iterator/figura1.png)
+
+</div>
+
+<div style= "max-width: 800px">
+
+![Imagem](./Modelagem/assets/comportamentais/iterator/figura2.png)
+
+</div>
+
+<div style= "max-width: 800px">
+
+![Imagem](./Modelagem/assets/comportamentais/iterator/figura3.png)
 
 </div>
 
