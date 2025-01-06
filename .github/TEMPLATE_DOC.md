@@ -24,10 +24,10 @@ Sendo assim, este documento tem como finalidade [objetivo do documento].
 
 Para a elaboração deste documento, foram seguidas as seguintes etapas:
 - Inicialmente, foi realizada uma reunião com os membros da equipe do projeto [X] para discutir e alinhar as principais questões relacionadas a [tema ou objetivo].
-- Pesquisas foram conduzidas em [A](#ref1) e [B](#ref2), proporcionando uma base sólida para a análise e discussão.
+- Pesquisas foram conduzidas em <sup>[A](#ref1)</sup> e <sup>[B](#ref2)</sup>, proporcionando uma base sólida para a análise e discussão.
     - Se possível, adicionar algum algum documento nosso. (Caso haja elo com outro documento)
-- O desenvolvimento do projeto seguiu a metodologia [C](#ref3), garantindo a aplicabilidade das melhores práticas no processo.
-- Utilizou-se a ferramenta [Z](#ref4) para a parte [L] do projeto, a fim de [justificativa].
+- O desenvolvimento do projeto seguiu a metodologia <sup>[C](#ref3)</sup>, garantindo a aplicabilidade das melhores práticas no processo.
+- Utilizou-se a ferramenta <sup>[Z](#ref4)</sup> para a parte [L] do projeto, a fim de [justificativa].
 
 A metodologia [C] adotada pode ser visualizada de forma detalhada através dos seguintes passos [listar, tabela, imagens, ou vídeos, conforme necessário].
 -->
