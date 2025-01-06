@@ -32,11 +32,11 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - (DSW)P
 
 ### Padrão Criacional
 
-#### Print
+#### Builder
 
 <div style= "max-width: 800px">
 
-![Imagem](./Modelagem/assets/Diagrama-de-Classes.jpg)
+![Imagem](../docs/PadroesDeProjeto/assets/criacionais/builder/User_Builder.svg)
 
 </div>
 
@@ -52,7 +52,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - (DSW)P
 
 ### Padrão Comportamental
 
-#### Print
+#### Strategy
 
 <div style= "max-width: 800px">
 
