@@ -96,7 +96,7 @@ npm run dev
 Após isso abra o seguinte link em seu navegador:
 
 ```
-http://localhost:5331
+http://localhost:5173
 
 ```
 
