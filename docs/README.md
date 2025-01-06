@@ -25,21 +25,80 @@
 
 ## Sobre 
 
-O Projeto Eventour surge como um trabalho da disciplina de arquitetura e desenho de software da Unb - FCTE(Faculade de Ciências e Tecnologias em Engenharia). O Eventour é um Web/App informativo que apresenta eventos relacionados a festas típicas que ocorrem sazonalmente, ele possibilita a filtragem dos eventos por tema e local do usuário.
+O Projeto Eventour surge como um trabalho da disciplina de arquitetura e desenho de software da Unb - FCTE(Faculdade de Ciências e Tecnologias em Engenharia). O Eventour é um Web/App informativo que apresenta eventos relacionados a festas típicas que ocorrem sazonalmente, ele possibilita a filtragem dos eventos por tema e local do usuário.
 
-## Screenshots da Terceira Entrega
-Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - Padrões de Projeto.
+## Screenshots da Segunda Entrega
+Abaixo são apresentados exemplos de artefatos produzidos na entrega 03 - (DSW)Padrões de Projeto.
 
+### Padrão Criacional
 
+#### Builder
+
+<div style= "max-width: 800px">
+
+![Imagem](../docs/PadroesDeProjeto/assets/criacionais/builder/User_Builder.svg)
+
+</div>
+
+### Padrão Estrutural
+
+#### Composite
+
+<div style= "max-width: 800px">
+
+![Imagem](../docs/PadroesDeProjeto/assets/estruturais/composite/padrão_estrutural_composite.svg)
+
+</div>
+
+### Padrão Comportamental
+
+#### Iterator
+
+<div style= "max-width: 800px">
+
+![Imagem](../docs/PadroesDeProjeto/assets/comportamentais/iterator/figura1.png)
+
+</div>
+
+<div style= "max-width: 800px">
+
+![Imagem](../docs/PadroesDeProjeto/assets/comportamentais/iterator/figura2.png)
+
+</div>
+
+<div style= "max-width: 800px">
+
+![Imagem](../docs/PadroesDeProjeto/assets/comportamentais/iterator/figura3.png)
+
+</div>
 
 
 ## Há algo a ser executado?
 
-( ) SIM
+(x) SIM
 
-( ) NÃO
+() NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+## Script Para executar o FrontEnd
+
+Para executar o frontend do projeto execute os comandos abaixo:
+
+Instale as dependências do node no projeto utilizando o comando:
+```
+npm install
+```
+Após instalar as dependências rode o projeto localmente em sua máquina com o comando:
+
+```
+npm run dev
+```
+
+Após isso abra o seguinte link em seu navegador:
+
+```
+http://localhost:5173
+
+```
 
 ## Informações Complementares
 
@@ -50,7 +109,7 @@ Nenhuma informação adicional.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-| `1.0`  | 07/12/2024 | Criação do documento | [Pablo S. Costa][PabloGH] & [Kathlyn Murussi][KathlynGH] | |  |
+| `1.0`  | 03/01/2024 | Criação do documento | [Elias Oliveira][EliasGH] | | |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
@@ -64,3 +123,4 @@ Nenhuma informação adicional.
 [PedroPGH]: https://github.com/Pedrin0030
 [SamuelGH]: https://github.com/samuelalvess
 [TalesGH]: https://github.com/TalesRG
+
